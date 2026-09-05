@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\med-link",
+    "\\src\\med-link\\app",
+    "\\src\\med-link\\config",
+    "\\src\\med-link\\static",
+    "\\src\\med-link\\static\\css",
+    "\\src\\med-link\\templates",
+    "\\src\\med-link\\templates\\components",
+    "\\src\\med-link\\templates\\components\\layouts"
+  ],
+  "SelectedNode": "\\src\\med-link\\templates\\components\\header.html",
+  "PreviewInSolutionExplorer": false
+}
